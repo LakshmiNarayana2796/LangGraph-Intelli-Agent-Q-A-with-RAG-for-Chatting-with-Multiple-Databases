@@ -1,0 +1,4 @@
+data\airline_policy_vectordb
+data\stories_vectordb
+venv
+.env
